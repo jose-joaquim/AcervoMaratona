@@ -1,3 +1,5 @@
+//Autor: Joaquim
+//Complexidade: L * log(n)
 #include <cstdio>
 #include <iostream>
 
