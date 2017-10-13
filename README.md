@@ -1,4 +1,4 @@
-# Arcevo das aulas da Maratona de Programação
+# Acervo das aulas da Maratona de Programação
 ## Universidade Federal de Sergipe (UFS)
 
 Este repositório contém códigos e referências sobre assuntos e questões que envolvem a Maratona de Programação - ICPC.
